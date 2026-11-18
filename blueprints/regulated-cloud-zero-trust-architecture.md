@@ -4,19 +4,13 @@
 
 Organizations operating across higher education, healthcare, financial services, and defense contractors face overlapping compliance mandates (`NIST SP 800-53 / 800-171`, `CMMC`, `HIPAA`, `FERPA`, `GLBA`, `PCI-DSS`, `SOX`, and `ISO/IEC 27001`). Instead of building brittle point-solutions per regulation, this architecture unifies controls into a **single automated Zero-Trust control plane**.
 
-```mermaid
-flowchart TB
-    U[Campus / Remote / Clinical Users] --> IDP[Identity Provider & Phishing-Resistant MFA]
-    IDP --> ZTNA[Zero-Trust Edge / Cloudflare Access & WAF]
-    ZTNA --> SEG{Segmented Enclaves}
-    SEG --> HE[Higher-Ed Core: Banner / Colleague / Workday / Canvas]
-    SEG --> HC[Regulated Compute: AWS & Azure Enclaves]
-    HE --> KMS[FIPS 140-3 KMS · Encryption at Rest & In Transit]
-    HC --> KMS
-    HC --> SIEM[Central SIEM / Vulnerability Telemetry / Incident Response]
-    KMS --> SIEM
-    SIEM --> AUD[Continuous Evidence Collector: NIST · HIPAA · FERPA · GLBA · SOX]
-```
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/blueprint-zerotrust-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="../assets/blueprint-zerotrust-light.svg" />
+  <img alt="Regulated Multi-Cloud Zero-Trust Blueprint Flow" src="../assets/blueprint-zerotrust-dark.svg" width="100%" />
+</picture>
+</div>
 
 ## Unified Control Mapping Matrix
 

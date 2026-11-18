@@ -40,22 +40,13 @@
 
 ### Architecture // Regulated Multi-Cloud & Higher-Ed Governance Stack
 
-```mermaid
-flowchart LR
-    classDef edge fill:#0B1120,stroke:#0EA5E9,stroke-width:2px,color:#F8FAFC
-    classDef core fill:#0F172A,stroke:#10B981,stroke-width:2px,color:#F8FAFC
-    classDef data fill:#0F172A,stroke:#8B5CF6,stroke-width:2px,color:#F8FAFC
-    classDef gov  fill:#0F172A,stroke:#F59E0B,stroke-width:2px,color:#F8FAFC
-
-    IDP["Identity & Phishing-Resistant MFA<br/>Entra ID · AWS IAM · Zero-Trust"]:::edge --> EDGE["Zero-Trust Edge & NGFW<br/>Cloudflare · Fortinet · Segmentation"]:::edge
-    EDGE --> CLOUD["Hybrid / Multi-Cloud Core<br/>AWS (Certified Dev & CCP) · Azure · GCP"]:::core
-    EDGE --> ERP["Higher-Ed & Enterprise Systems<br/>Banner · Colleague · Workday · PeopleSoft · Canvas"]:::core
-    CLOUD --> BI["Data Lakehouse & AI Telemetry<br/>Power BI · Tableau · Python · AWS Rekognition"]:::data
-    ERP --> BI
-    BI --> COMP["Continuous Compliance<br/>HIPAA · FERPA · GLBA · SOX · NIST 800-53 · ISO 27001"]:::gov
-    CLOUD --> FINOPS["Cloud FinOps & Turnaround Control<br/>20%-35% Cost Reduction · +30% Reporting Speed"]:::gov
-    ERP --> FINOPS
-```
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/architecture-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/architecture-light.svg" />
+  <img alt="Regulated Multi-Cloud and Higher-Ed Governance Architecture" src="./assets/architecture-dark.svg" width="100%" />
+</picture>
+</div>
 
 ---
 

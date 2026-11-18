@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 324" width="100%" role="img" aria-label="Regulated Multi-Cloud and Higher-Ed Governance Architecture">
+  <defs>
+    <clipPath id="archCard_dark_0"><rect x="28" y="60" width="250" height="98" rx="12"/></clipPath>
+    <clipPath id="archCard_dark_1"><rect x="28" y="194" width="250" height="98" rx="12"/></clipPath>
+    <clipPath id="archCard_dark_2"><rect x="322" y="60" width="266" height="98" rx="12"/></clipPath>
+    <clipPath id="archCard_dark_3"><rect x="322" y="194" width="266" height="98" rx="12"/></clipPath>
+    <clipPath id="archCard_dark_4"><rect x="632" y="60" width="250" height="98" rx="12"/></clipPath>
+    <clipPath id="archCard_dark_5"><rect x="632" y="194" width="250" height="98" rx="12"/></clipPath>
+    <clipPath id="archCard_dark_6"><rect x="926" y="60" width="246" height="98" rx="12"/></clipPath>
+    <clipPath id="archCard_dark_7"><rect x="926" y="194" width="246" height="98" rx="12"/></clipPath>
+  </defs>
+  <rect x="12" y="6" width="1176" height="312" rx="16" fill="#0B1120" stroke="#1E293B" stroke-width="1.2"/>
+  <rect x="28" y="22" width="250" height="24" rx="7" fill="#111C33" stroke="#0EA5E9" stroke-width="1"/>
+  <text x="153" y="38" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="10" font-weight="700" letter-spacing="0.8" fill="#0EA5E9">01 // IDENTITY &amp; EDGE</text>
+  <rect x="322" y="22" width="266" height="24" rx="7" fill="#111C33" stroke="#10B981" stroke-width="1"/>
+  <text x="455" y="38" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="10" font-weight="700" letter-spacing="0.8" fill="#10B981">02 // CLOUD &amp; ERP CORE</text>
+  <rect x="632" y="22" width="250" height="24" rx="7" fill="#111C33" stroke="#8B5CF6" stroke-width="1"/>
+  <text x="757" y="38" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="10" font-weight="700" letter-spacing="0.8" fill="#8B5CF6">03 // DATA &amp; TELEMETRY</text>
+  <rect x="926" y="22" width="246" height="24" rx="7" fill="#111C33" stroke="#F59E0B" stroke-width="1"/>
+  <text x="1049" y="38" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="10" font-weight="700" letter-spacing="0.8" fill="#F59E0B">04 // GOVERNANCE &amp; FINOPS</text>
+
+  <!-- Col 1 vertical connector: IDP -> EDGE -->
+  <line x1="153" y1="158" x2="153" y2="188" stroke="#0EA5E9" stroke-width="2"/>
+  <polygon points="153,194 148,185 158,185" fill="#0EA5E9"/>
+
+  <!-- Gutter 1->2 orthogonal bus: EDGE (278,243) -> CLOUD (322,109) & ERP (322,243) -->
+  <line x1="278" y1="243" x2="316" y2="243" stroke="#0EA5E9" stroke-width="2"/>
+  <line x1="300" y1="109" x2="300" y2="243" stroke="#0EA5E9" stroke-width="2"/>
+  <line x1="300" y1="109" x2="316" y2="109" stroke="#0EA5E9" stroke-width="2"/>
+  <polygon points="322,109 313,104 313,114" fill="#0EA5E9"/>
+  <polygon points="322,243 313,238 313,248" fill="#0EA5E9"/>
+
+  <!-- Gutter 2->3 orthogonal bus: CLOUD (588,109) & ERP (588,243) -> BI (632,109) & SIEM (632,243) -->
+  <line x1="588" y1="109" x2="626" y2="109" stroke="#10B981" stroke-width="2"/>
+  <line x1="588" y1="243" x2="626" y2="243" stroke="#10B981" stroke-width="2"/>
+  <line x1="610" y1="109" x2="610" y2="243" stroke="#10B981" stroke-width="2"/>
+  <polygon points="632,109 623,104 623,114" fill="#10B981"/>
+  <polygon points="632,243 623,238 623,248" fill="#10B981"/>
+
+  <!-- Gutter 3->4 orthogonal bus: BI (882,109) & SIEM (882,243) -> COMP (926,109) & FINOPS (926,243) -->
+  <line x1="882" y1="109" x2="920" y2="109" stroke="#8B5CF6" stroke-width="2"/>
+  <line x1="882" y1="243" x2="920" y2="243" stroke="#8B5CF6" stroke-width="2"/>
+  <line x1="904" y1="109" x2="904" y2="243" stroke="#8B5CF6" stroke-width="2"/>
+  <polygon points="926,109 917,104 917,114" fill="#8B5CF6"/>
+  <polygon points="926,243 917,238 917,248" fill="#8B5CF6"/>
+
+  <g clip-path="url(#archCard_dark_0)">
+    <rect x="28" y="60" width="250" height="98" rx="12" fill="#0F172A"/>
+    <rect x="28" y="60" width="250" height="4" fill="#0EA5E9"/>
+    <text x="44" y="92" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F8FAFC">Identity &amp; Zero-Trust IAM</text>
+    <text x="44" y="116" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#0EA5E9">Phishing-Resistant MFA · SSO</text>
+    <text x="44" y="138" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="10.8" fill="#94A3B8">Entra ID · AWS IAM · RBAC</text>
+  </g>
+  <rect x="28.5" y="60.5" width="249" height="97" rx="12" fill="none" stroke="#1E293B" stroke-width="1"/>
+  <g clip-path="url(#archCard_dark_1)">
+    <rect x="28" y="194" width="250" height="98" rx="12" fill="#0F172A"/>
+    <rect x="28" y="194" width="250" height="4" fill="#0EA5E9"/>
+    <text x="44" y="226" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F8FAFC">Zero-Trust Edge &amp; NGFW</text>
+    <text x="44" y="250" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#0EA5E9">WAF · Micro-Segmentation</text>
+    <text x="44" y="272" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="10.8" fill="#94A3B8">Cloudflare · Fortinet · TLS 1.3</text>
+  </g>
+  <rect x="28.5" y="194.5" width="249" height="97" rx="12" fill="none" stroke="#1E293B" stroke-width="1"/>
+  <g clip-path="url(#archCard_dark_2)">
+    <rect x="322" y="60" width="266" height="98" rx="12" fill="#0F172A"/>
+    <rect x="322" y="60" width="266" height="4" fill="#10B981"/>
+    <text x="338" y="92" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F8FAFC">Hybrid &amp; Multi-Cloud Core</text>
+    <text x="338" y="116" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#10B981">AWS Certified Dev &amp; Practitioner</text>
+    <text x="338" y="138" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="10.8" fill="#94A3B8">AWS · Azure · GCP · Immutable DR</text>
+  </g>
+  <rect x="322.5" y="60.5" width="265" height="97" rx="12" fill="none" stroke="#1E293B" stroke-width="1"/>
+  <g clip-path="url(#archCard_dark_3)">
+    <rect x="322" y="194" width="266" height="98" rx="12" fill="#0F172A"/>
+    <rect x="322" y="194" width="266" height="4" fill="#10B981"/>
+    <text x="338" y="226" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F8FAFC">Higher-Ed &amp; Enterprise Core</text>
+    <text x="338" y="250" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#10B981">Banner · Colleague · Workday</text>
+    <text x="338" y="272" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="10.8" fill="#94A3B8">PeopleSoft · Canvas · ServiceNow</text>
+  </g>
+  <rect x="322.5" y="194.5" width="265" height="97" rx="12" fill="none" stroke="#1E293B" stroke-width="1"/>
+  <g clip-path="url(#archCard_dark_4)">
+    <rect x="632" y="60" width="250" height="98" rx="12" fill="#0F172A"/>
+    <rect x="632" y="60" width="250" height="4" fill="#8B5CF6"/>
+    <text x="648" y="92" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F8FAFC">Data Lakehouse &amp; AI</text>
+    <text x="648" y="116" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#8B5CF6">Power BI · Tableau · Python</text>
+    <text x="648" y="138" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="10.8" fill="#94A3B8">AWS Rekognition · IoT Telemetry</text>
+  </g>
+  <rect x="632.5" y="60.5" width="249" height="97" rx="12" fill="none" stroke="#1E293B" stroke-width="1"/>
+  <g clip-path="url(#archCard_dark_5)">
+    <rect x="632" y="194" width="250" height="98" rx="12" fill="#0F172A"/>
+    <rect x="632" y="194" width="250" height="4" fill="#8B5CF6"/>
+    <text x="648" y="226" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F8FAFC">Unified SIEM &amp; Cost Pipe</text>
+    <text x="648" y="250" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#8B5CF6">Automated Drift &amp; Spend Audit</text>
+    <text x="648" y="272" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="10.8" fill="#94A3B8">GL-Mapped Billing · Audit Logs</text>
+  </g>
+  <rect x="632.5" y="194.5" width="249" height="97" rx="12" fill="none" stroke="#1E293B" stroke-width="1"/>
+  <g clip-path="url(#archCard_dark_6)">
+    <rect x="926" y="60" width="246" height="98" rx="12" fill="#0F172A"/>
+    <rect x="926" y="60" width="246" height="4" fill="#F59E0B"/>
+    <text x="942" y="92" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F8FAFC">Continuous Compliance</text>
+    <text x="942" y="116" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#F59E0B">$300M+ Zero-Infraction Audits</text>
+    <text x="942" y="138" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="10.8" fill="#94A3B8">HIPAA · FERPA · GLBA · SOX · NIST</text>
+  </g>
+  <rect x="926.5" y="60.5" width="245" height="97" rx="12" fill="none" stroke="#1E293B" stroke-width="1"/>
+  <g clip-path="url(#archCard_dark_7)">
+    <rect x="926" y="194" width="246" height="98" rx="12" fill="#0F172A"/>
+    <rect x="926" y="194" width="246" height="4" fill="#F59E0B"/>
+    <text x="942" y="226" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F8FAFC">Cloud FinOps &amp; Turnaround</text>
+    <text x="942" y="250" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#F59E0B">20%–35% Overhead Reduction</text>
+    <text x="942" y="272" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="10.8" fill="#94A3B8">+30% Reporting · 0% Attrition</text>
+  </g>
+  <rect x="926.5" y="194.5" width="245" height="97" rx="12" fill="none" stroke="#1E293B" stroke-width="1"/>
+</svg>

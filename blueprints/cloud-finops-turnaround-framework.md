@@ -4,13 +4,13 @@
 
 Most cloud optimization efforts treat cost as a purely engineering exercise—or purely an accounting cut. Real executive turnarounds combine **Systems Engineering architecture** with **GAAP / Managerial Accounting unit economics** so performance rises while burn drops **20%–35%**.
 
-```mermaid
-flowchart LR
-    A[1. 48-Hour Telemetry & Spend Audit] --> B[2. Shadow SaaS & Vendor Consolidation]
-    B --> C[3. Right-Sizing & Architecture Refactoring]
-    C --> D[4. Grant / Capital Re-Alignment]
-    D --> E[Outcome: -20% to -35% Cost · +30% Reporting Speed · 0% Key Attrition]
-```
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/blueprint-finops-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="../assets/blueprint-finops-light.svg" />
+  <img alt="Cloud FinOps and Operational Turnaround Blueprint Flow" src="../assets/blueprint-finops-dark.svg" width="100%" />
+</picture>
+</div>
 
 ## Four-Phase Turnaround Methodology
 
