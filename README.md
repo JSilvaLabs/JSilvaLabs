@@ -93,20 +93,20 @@ flowchart LR
   </tr>
 </table>
 
-> **Open-Source Curation:** Creator &amp; maintainer of [`Awesome-Assemblies-of-God-Church`](https://github.com/JSilvaLabs/Awesome-Assemblies-of-God-Church), plus 40+ active engineering, analytics, theology pedagogy, and operational estimation repositories across TypeScript, Python, SQL, and cloud-native web stacks.
+> **Open-Source Curation:** Creator &amp; maintainer of [`Awesome-Assemblies-of-God-Church`](https://github.com/JSilvaLabs/Awesome-Assemblies-of-God-Church) ([**Live Searchable Directory**](https://jsilvalabs.github.io/Awesome-Assemblies-of-God-Church/)), plus 40+ active engineering, analytics, theology pedagogy, and operational estimation repositories across TypeScript, Python, SQL, and cloud-native web stacks.
 
 ---
 
 ### Credentials // Academic, Executive, Cloud & Military Track Record
 
 <details>
-<summary><strong>Expand Full Academic Degrees, Cloud/Cyber Certifications, Publications &amp; Military Honors</strong></summary>
+<summary><strong>Expand Full Academic Degrees (5 Conferred), Cloud/Cyber Certifications, Publications &amp; Military Honors</strong></summary>
 
 <br/>
 
 | Category | Verified Credentials &amp; Distinctions |
 | :--- | :--- |
-| **Graduate Engineering &amp; Business** | • **M.S. in Systems Engineering** — The University of Texas at El Paso (**4.00 GPA**)<br/>• **M.S. in Accounting &amp; Information Technology** — Texas State University<br/>• **Master of Business Administration (M.B.A.)** — The University of Texas at San Antonio<br/>• **B.B.A. in International Business &amp; Economics** — The University of Texas at San Antonio<br/>• **Doctoral Coursework:** 55 earned doctoral credits toward **Ed.D. in Organizational Leadership** (*All But Dissertation / ABD — Degree Not Conferred*) |
+| **5 Conferred Degrees &amp; Doctoral Study** | • **M.S. in Systems Engineering** — The University of Texas at El Paso (**4.00 GPA**)<br/>• **M.S. in Accounting &amp; Information Technology** — Texas State University<br/>• **Master of Business Administration (M.B.A.)** — The University of Texas at San Antonio<br/>• **B.B.A. in International Business** &amp; **Bachelor's in Economics** — The University of Texas at San Antonio (*2 Bachelor's Degrees · 137 Credit Hours*)<br/>• **Doctoral Coursework:** 55 earned doctoral credits toward **Ed.D. in Organizational Leadership** (*All But Dissertation / ABD — Degree Not Conferred*) |
 | **Cloud &amp; Cybersecurity** | • **AWS Certified Developer – Associate** &amp; **AWS Certified Cloud Practitioner**<br/>• **7 AWS Storage, Migration &amp; Resilience Badges** (Core, S3/Glacier, EBS, EFS/FSx, DR, Data Migration)<br/>• **Fortinet Network Security Associate (NSE 1)** · **DEF CON 30** Aerospace &amp; Hardware Badges · **500+ hrs AWS Labs**<br/>• **AWS AI/Robotics Badges:** DeepRacer, DeepLens, RoboMaker, IoT, Inventor |
 | **Leadership &amp; Turnarounds** | • **VP of Project Management &amp; CTO**, [RegulatedCloud](https://regulated.cloud) (Austin, TX) — *20%–35% overhead savings, -40% security incidents*<br/>• **Technology Fellow**, Texas State University — *Canvas LMS migration, AWS Rekognition + IoT classroom AI (80,000+ SCH)*<br/>• **Chief Finance &amp; Technology Officer (CFTO)**, AOMA Graduate School — *$100K annual savings/revenue, $25K in 48 hrs, 0% attrition*<br/>• **Intelligence Officer**, U.S. Army Reserves (*Combat Veteran — Afghanistan*) — *$100M / 350-person logistics turnaround (Last → Top 25%)* |
 | **Military &amp; Civil Honors** | • Meritorious Service Medal · Army Commendation Medal · Army Achievement Medal · Combat Action Badge · Afghanistan &amp; NATO Medals<br/>• **FAA Part 107 Licensed Commercial sUAS Drone Pilot** · **Prusa 3D Printing Certified** · **QuickBooks Advanced ProAdvisor** |
