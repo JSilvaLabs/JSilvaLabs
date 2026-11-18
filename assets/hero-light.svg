@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" role="img" aria-label="Joshua David Silva - Executive Systems Architect Banner">
+  <defs>
+    <clipPath id="heroClip_light">
+      <rect x="0" y="0" width="1200" height="320" rx="18"/>
+    </clipPath>
+    <pattern id="grid_light" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#CBD5E1" stroke-width="1" opacity="0.35"/>
+    </pattern>
+    <linearGradient id="topBarGrad_light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="50%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+    <radialGradient id="crestGlow_light" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0.12"/>
+      <stop offset="55%" stop-color="#6366F1" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      @keyframes pulseRing {
+        0%   { r: 4.5; opacity: 0.9; }
+        70%  { r: 10; opacity: 0; }
+        100% { r: 10; opacity: 0; }
+      }
+      @keyframes orbitSpin {
+        0%   { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      @keyframes dataFlow {
+        0%   { stroke-dashoffset: 36; }
+        100% { stroke-dashoffset: 0; }
+      }
+      .pulse-ring { animation: pulseRing 2.4s cubic-bezier(0.2, 0.8, 0.2, 1) infinite; }
+      .orbit-ring { transform-origin: 1058px 158px; animation: orbitSpin 42s linear infinite; }
+      .flow-line  { stroke-dasharray: 5 4; animation: dataFlow 2.2s linear infinite; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#heroClip_light)">
+    <rect x="0" y="0" width="1200" height="320" fill="#F8FAFC"/>
+    <rect x="0" y="0" width="1200" height="320" fill="url(#grid_light)"/>
+    <circle cx="1058" cy="158" r="220" fill="url(#crestGlow_light)"/>
+    <rect x="0" y="0" width="1200" height="5" fill="url(#topBarGrad_light)"/>
+
+    <!-- Live Status Pill -->
+    <rect x="48" y="28" width="668" height="28" rx="14" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1"/>
+    <circle cx="66" cy="42" r="4.5" fill="#10B981" class="pulse-ring"/>
+    <circle cx="66" cy="42" r="4.5" fill="#10B981"/>
+    <text x="80" y="46" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="11.5" font-weight="600" letter-spacing="1.1" fill="#0369A1">EXECUTIVE SYSTEMS ARCHITECT  //  CIO · CTO · CFTO  //  AUSTIN &amp; SAN ANTONIO, TX</text>
+
+    <!-- Headline & Role -->
+    <text x="48" y="102" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-0.5" fill="#0F172A">JOSHUA DAVID SILVA, M.S., M.B.A.</text>
+    <text x="48" y="135" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#475569">VP of Project Management &amp; CTO @ RegulatedCloud  ·  Higher-Ed &amp; Regulated Enterprise Executive</text>
+
+    <!-- Executive Tagline Quote -->
+    <rect x="48" y="156" width="3.5" height="44" rx="2" fill="#059669"/>
+    <text x="64" y="173" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#334155">&quot;Overcoming the &apos;impossible&apos; at the intersection of Systems Engineering, Cloud FinOps,</text>
+    <text x="64" y="194" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#334155"> Zero-Trust Cybersecurity, and Servant Leadership.&quot;</text>
+
+    <!-- Bottom Credential Pills -->
+  <rect x="48" y="224" width="248" height="30" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+  <circle cx="60" cy="239" r="3.5" fill="#0EA5E9"/>
+  <text x="70" y="243" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1E293B">M.S. Systems Engineering (4.0 GPA)</text>
+  <rect x="308" y="224" width="220" height="30" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+  <circle cx="320" cy="239" r="3.5" fill="#6366F1"/>
+  <text x="330" y="243" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1E293B">M.S. Accounting &amp; IT  ·  M.B.A.</text>
+  <rect x="540" y="224" width="205" height="30" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+  <circle cx="552" cy="239" r="3.5" fill="#8B5CF6"/>
+  <text x="562" y="243" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1E293B">Ed.D. (ABD · 55 Credits)</text>
+  <rect x="48" y="264" width="250" height="30" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+  <circle cx="60" cy="279" r="3.5" fill="#10B981"/>
+  <text x="70" y="283" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1E293B">Author: The Small College CIO (2026)</text>
+  <rect x="308" y="264" width="342" height="30" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+  <circle cx="320" cy="279" r="3.5" fill="#F59E0B"/>
+  <text x="330" y="283" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1E293B">U.S. Army Combat Veteran (Intelligence Officer)</text>
+  <rect x="660" y="264" width="312" height="30" rx="8" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+  <circle cx="672" cy="279" r="3.5" fill="#14B8A6"/>
+  <text x="682" y="283" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1E293B">AWS Certified Dev &amp; Practitioner · FAA Part 107</text>
+
+
+    <!-- Right-Side MBSE / Multi-Cloud Orbital Systems Crest -->
+    <circle cx="1058" cy="158" r="102" fill="none" stroke="#BAE6FD" stroke-width="1.5" stroke-dasharray="6 6" class="orbit-ring"/>
+    <circle cx="1058" cy="158" r="76" fill="none" stroke="#BAE6FD" stroke-width="1" opacity="0.6"/>
+
+    <!-- Connecting Signal Paths -->
+    <line x1="1058" y1="56" x2="1058" y2="118" stroke="#0EA5E9" stroke-width="1.8" class="flow-line"/>
+    <line x1="1146" y1="158" x2="1098" y2="158" stroke="#10B981" stroke-width="1.8" class="flow-line"/>
+    <line x1="1058" y1="260" x2="1058" y2="198" stroke="#8B5CF6" stroke-width="1.8" class="flow-line"/>
+    <line x1="970" y1="158" x2="1018" y2="158" stroke="#F59E0B" stroke-width="1.8" class="flow-line"/>
+
+    <!-- Center Monogram Emblem -->
+    <circle cx="1058" cy="158" r="40" fill="#FFFFFF" stroke="#0EA5E9" stroke-width="2.2"/>
+    <circle cx="1058" cy="158" r="34" fill="none" stroke="#10B981" stroke-width="0.9" opacity="0.55"/>
+    <text x="1058" y="160" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="1" fill="#0F172A">JS</text>
+    <text x="1058" y="177" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="9.5" font-weight="700" letter-spacing="1.6" fill="#0EA5E9">MBSE · CIO</text>
+
+    <!-- 4 Orbital Architecture Nodes -->
+    <rect x="1016" y="34" width="84" height="24" rx="12" fill="#FFFFFF" stroke="#0EA5E9" stroke-width="1.4"/>
+    <text x="1058" y="50" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="11" font-weight="700" fill="#0F172A">CLOUD</text>
+
+    <rect x="1110" y="146" width="76" height="24" rx="12" fill="#FFFFFF" stroke="#10B981" stroke-width="1.4"/>
+    <text x="1148" y="162" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="10.5" font-weight="700" fill="#0F172A">SECURITY</text>
+
+    <rect x="1016" y="258" width="84" height="24" rx="12" fill="#FFFFFF" stroke="#8B5CF6" stroke-width="1.4"/>
+    <text x="1058" y="274" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="11" font-weight="700" fill="#0F172A">FINOPS</text>
+
+    <rect x="936" y="146" width="78" height="24" rx="12" fill="#FFFFFF" stroke="#F59E0B" stroke-width="1.4"/>
+    <text x="975" y="162" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="10.5" font-weight="700" fill="#0F172A">AI / DATA</text>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="18" fill="none" stroke="#CBD5E1" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 488" width="100%" role="img" aria-label="Joshua David Silva - Technical and Executive Capability Matrix">
+  <rect x="12" y="10" width="1176" height="84" rx="12" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+  <rect x="12" y="22" width="4" height="60" rx="2" fill="#0EA5E9"/>
+  <text x="32" y="46" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#F8FAFC">Cloud &amp; Edge Infrastructure</text>
+  <text x="32" y="67" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="11" fill="#94A3B8">Multi-Cloud · FinOps · DR</text>
+  <line x1="274" y1="24" x2="274" y2="80" stroke="#1E293B" stroke-width="1"/>
+  <rect x="292" y="23" width="310" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="303" cy="36" r="2.8" fill="#0EA5E9"/>
+  <text x="312" y="40" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">AWS (Certified Dev &amp; Cloud Practitioner)</text>
+  <rect x="611" y="23" width="132" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="622" cy="36" r="2.8" fill="#0EA5E9"/>
+  <text x="631" y="40" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Microsoft Azure</text>
+  <rect x="752" y="23" width="111" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="763" cy="36" r="2.8" fill="#0EA5E9"/>
+  <text x="772" y="40" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Google Cloud</text>
+  <rect x="872" y="23" width="154" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="883" cy="36" r="2.8" fill="#0EA5E9"/>
+  <text x="892" y="40" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Cloudflare Workers</text>
+  <rect x="292" y="56" width="147" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="303" cy="69" r="2.8" fill="#0EA5E9"/>
+  <text x="312" y="73" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Hybrid Cloud &amp; DR</text>
+  <rect x="448" y="56" width="69" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="459" cy="69" r="2.8" fill="#0EA5E9"/>
+  <text x="468" y="73" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Docker</text>
+  <rect x="526" y="56" width="182" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="537" cy="69" r="2.8" fill="#0EA5E9"/>
+  <text x="546" y="73" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Linux &amp; Windows Server</text>
+  <rect x="12" y="106" width="1176" height="84" rx="12" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+  <rect x="12" y="118" width="4" height="60" rx="2" fill="#10B981"/>
+  <text x="32" y="142" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#F8FAFC">Cybersecurity &amp; Compliance</text>
+  <text x="32" y="163" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="11" fill="#94A3B8">Zero-Trust · Audits · Defense</text>
+  <line x1="274" y1="120" x2="274" y2="176" stroke="#1E293B" stroke-width="1"/>
+  <rect x="292" y="119" width="218" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="303" cy="132" r="2.8" fill="#10B981"/>
+  <text x="312" y="136" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">NIST CSF / 800-53 / 800-171</text>
+  <rect x="519" y="119" width="68" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="530" cy="132" r="2.8" fill="#10B981"/>
+  <text x="539" y="136" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">CMMC</text>
+  <rect x="596" y="119" width="125" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="607" cy="132" r="2.8" fill="#10B981"/>
+  <text x="616" y="136" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">HIPAA &amp; HITECH</text>
+  <rect x="730" y="119" width="140" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="741" cy="132" r="2.8" fill="#10B981"/>
+  <text x="750" y="136" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">FERPA &amp; Title IV</text>
+  <rect x="879" y="119" width="125" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="890" cy="132" r="2.8" fill="#10B981"/>
+  <text x="899" y="136" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">GLBA &amp; PCI-DSS</text>
+  <rect x="1013" y="119" width="132" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="1024" cy="132" r="2.8" fill="#10B981"/>
+  <text x="1033" y="136" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">SOX IT Controls</text>
+  <rect x="292" y="152" width="90" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="303" cy="165" r="2.8" fill="#10B981"/>
+  <text x="312" y="169" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">ISO 27001</text>
+  <rect x="391" y="152" width="111" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="402" cy="165" r="2.8" fill="#10B981"/>
+  <text x="411" y="169" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Fortinet NSE</text>
+  <rect x="511" y="152" width="97" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="522" cy="165" r="2.8" fill="#10B981"/>
+  <text x="531" y="169" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">DEF CON 30</text>
+  <rect x="12" y="202" width="1176" height="84" rx="12" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+  <rect x="12" y="214" width="4" height="60" rx="2" fill="#8B5CF6"/>
+  <text x="32" y="238" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#F8FAFC">Software, Data &amp; AI Systems</text>
+  <text x="32" y="259" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="11" fill="#94A3B8">Full-Stack · ML · Pipelines</text>
+  <line x1="274" y1="216" x2="274" y2="272" stroke="#1E293B" stroke-width="1"/>
+  <rect x="292" y="215" width="69" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="303" cy="228" r="2.8" fill="#8B5CF6"/>
+  <text x="312" y="232" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Python</text>
+  <rect x="370" y="215" width="97" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="381" cy="228" r="2.8" fill="#8B5CF6"/>
+  <text x="390" y="232" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">TypeScript</text>
+  <rect x="476" y="215" width="97" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="487" cy="228" r="2.8" fill="#8B5CF6"/>
+  <text x="496" y="232" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">JavaScript</text>
+  <rect x="582" y="215" width="303" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="593" cy="228" r="2.8" fill="#8B5CF6"/>
+  <text x="602" y="232" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">SQL (MSSQL · Postgres · MySQL · Oracle)</text>
+  <rect x="894" y="215" width="97" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="905" cy="228" r="2.8" fill="#8B5CF6"/>
+  <text x="914" y="232" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">PowerShell</text>
+  <rect x="1000" y="215" width="90" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="1011" cy="228" r="2.8" fill="#8B5CF6"/>
+  <text x="1020" y="232" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">C# / .NET</text>
+  <rect x="292" y="248" width="90" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="303" cy="261" r="2.8" fill="#8B5CF6"/>
+  <text x="312" y="265" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">REST APIs</text>
+  <rect x="391" y="248" width="225" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="402" cy="261" r="2.8" fill="#8B5CF6"/>
+  <text x="411" y="265" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">AWS Rekognition &amp; Agentic AI</text>
+  <rect x="12" y="298" width="1176" height="84" rx="12" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+  <rect x="12" y="310" width="4" height="60" rx="2" fill="#F59E0B"/>
+  <text x="32" y="334" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#F8FAFC">Enterprise ERP, SIS &amp; BI</text>
+  <text x="32" y="355" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="11" fill="#94A3B8">Higher-Ed · CRM · Analytics</text>
+  <line x1="274" y1="312" x2="274" y2="368" stroke="#1E293B" stroke-width="1"/>
+  <rect x="292" y="311" width="132" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="303" cy="324" r="2.8" fill="#F59E0B"/>
+  <text x="312" y="328" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Ellucian Banner</text>
+  <rect x="433" y="311" width="154" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="444" cy="324" r="2.8" fill="#F59E0B"/>
+  <text x="453" y="328" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Ellucian Colleague</text>
+  <rect x="596" y="311" width="76" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="607" cy="324" r="2.8" fill="#F59E0B"/>
+  <text x="616" y="328" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Workday</text>
+  <rect x="681" y="311" width="147" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="692" cy="324" r="2.8" fill="#F59E0B"/>
+  <text x="701" y="328" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Oracle PeopleSoft</text>
+  <rect x="837" y="311" width="97" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="848" cy="324" r="2.8" fill="#F59E0B"/>
+  <text x="857" y="328" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Salesforce</text>
+  <rect x="943" y="311" width="97" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="954" cy="324" r="2.8" fill="#F59E0B"/>
+  <text x="963" y="328" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">ServiceNow</text>
+  <rect x="1049" y="311" width="97" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="1060" cy="324" r="2.8" fill="#F59E0B"/>
+  <text x="1069" y="328" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Canvas LMS</text>
+  <rect x="292" y="344" width="154" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="303" cy="357" r="2.8" fill="#F59E0B"/>
+  <text x="312" y="361" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Power BI &amp; Tableau</text>
+  <rect x="455" y="344" width="125" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="466" cy="357" r="2.8" fill="#F59E0B"/>
+  <text x="475" y="361" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">SPSS / SAS / R</text>
+  <rect x="12" y="394" width="1176" height="84" rx="12" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+  <rect x="12" y="406" width="4" height="60" rx="2" fill="#14B8A6"/>
+  <text x="32" y="430" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#F8FAFC">Systems Eng, IoT &amp; Aviation</text>
+  <text x="32" y="451" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, ui-monospace, monospace" font-size="11" fill="#94A3B8">MBSE · Hardware · sUAS</text>
+  <line x1="274" y1="408" x2="274" y2="464" stroke="#1E293B" stroke-width="1"/>
+  <rect x="292" y="407" width="175" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="303" cy="420" r="2.8" fill="#14B8A6"/>
+  <text x="312" y="424" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">MBSE (INCOSE / DoDAF)</text>
+  <rect x="476" y="407" width="161" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="487" cy="420" r="2.8" fill="#14B8A6"/>
+  <text x="496" y="424" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Requirements &amp; IV&amp;V</text>
+  <rect x="646" y="407" width="154" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="657" cy="420" r="2.8" fill="#14B8A6"/>
+  <text x="666" y="424" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">Raspberry Pi &amp; IoT</text>
+  <rect x="809" y="407" width="204" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="820" cy="420" r="2.8" fill="#14B8A6"/>
+  <text x="829" y="424" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">AWS DeepRacer &amp; RoboMaker</text>
+  <rect x="292" y="440" width="232" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="303" cy="453" r="2.8" fill="#14B8A6"/>
+  <text x="312" y="457" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">FAA Part 107 Commercial Drone</text>
+  <rect x="533" y="440" width="232" height="26" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+  <circle cx="544" cy="453" r="2.8" fill="#14B8A6"/>
+  <text x="553" y="457" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#E2E8F0">3D Photogrammetry &amp; Prusa CAD</text>
+</svg>
